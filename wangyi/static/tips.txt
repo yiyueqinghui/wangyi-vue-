@@ -1,0 +1,5 @@
+
+vue-cli脚手架中：
+    static默认的是根目录；（图片是在放到 static/img 目录下，然后路径统一写成 /static/img）
+
+    如果把一些静态资源放在src/assets下面，访问时可以使用相对路径，例如：../../assets/img/图片资源 ；

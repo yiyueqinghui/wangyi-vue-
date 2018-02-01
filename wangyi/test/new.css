@@ -1,0 +1,9 @@
+div{
+  width:100px;
+  height:200px;
+  background-color:#fff;
+  font-size:18px;
+  border-bottom:1px solid black;
+  opacity:0;
+
+}
